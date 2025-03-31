@@ -1,6 +1,7 @@
-package dev.castellon.movies;
+package dev.castellon.movies.service;
 
-import org.bson.types.ObjectId;
+import dev.castellon.movies.entity.Movie;
+import dev.castellon.movies.repository.MovieRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

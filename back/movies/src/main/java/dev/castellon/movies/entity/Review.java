@@ -1,4 +1,4 @@
-package dev.castellon.movies;
+package dev.castellon.movies.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -18,5 +18,8 @@ public class Review {
 
     public Review(String body) {
         this.body = body;
+    }
+    public String getId() {
+        return id.toHexString();
     }
 }
