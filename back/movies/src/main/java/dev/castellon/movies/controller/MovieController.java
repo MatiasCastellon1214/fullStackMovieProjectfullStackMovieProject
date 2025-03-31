@@ -1,9 +1,9 @@
-package dev.castellon.movies;
+package dev.castellon.movies.controller;
 
-import org.bson.types.ObjectId;
+import dev.castellon.movies.service.MovieService;
+import dev.castellon.movies.entity.Movie;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
-import org.springframework.http.HttpStatusCode;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 

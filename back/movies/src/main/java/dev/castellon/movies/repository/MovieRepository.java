@@ -1,5 +1,6 @@
-package dev.castellon.movies;
+package dev.castellon.movies.repository;
 
+import dev.castellon.movies.entity.Movie;
 import org.bson.types.ObjectId;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.stereotype.Repository;

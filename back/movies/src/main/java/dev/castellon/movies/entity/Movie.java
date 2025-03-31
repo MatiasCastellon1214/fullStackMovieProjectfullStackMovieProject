@@ -1,4 +1,4 @@
-package dev.castellon.movies;
+package dev.castellon.movies.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
