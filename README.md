@@ -2,7 +2,7 @@
 
 Web application to browse movies, watch movie trailers and submit reviews, built with React, Spring Boot and MongoDB.
 
-![Demo](https://via.placeholder.com/800x400?text=MovieAPI+Demo) <!-- Reemplaza con una imagen real de tu app -->
+![Demo](front/MovieClient/movie-gold-v1/public/fullstackMovieProject.gif) <!-- Reemplaza con una imagen real de tu app -->
 
 ## Features ✨
 
